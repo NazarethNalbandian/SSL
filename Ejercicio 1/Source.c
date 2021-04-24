@@ -14,5 +14,4 @@ void main(int argc, char* argv[])
 	printf("%s %s %s %d","Saludos,",nombre,". Tu edad es: ",edad);
 	
 	system("pause");
-	/*getchar();*/
 }
