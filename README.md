@@ -1,3 +1,3 @@
 Nombre: Nazareth Elías Nalbandian
 Legajo: 1756588
-Mail: nnalbandian@ffrba.utn.edu.ar
+Mail: nnalbandian@frba.utn.edu.ar
